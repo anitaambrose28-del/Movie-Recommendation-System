@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-A content-based movie recommendation system built with Python and Scikit-learn.
+A movie recommendation system built with Python and Scikit-learn.
 
 ## Features
 - Recommends similar movies based on a movie title
